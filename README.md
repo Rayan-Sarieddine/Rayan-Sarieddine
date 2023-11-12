@@ -1,5 +1,5 @@
 ### Rayan Sarieddine
-#### I am a Full-Stack developer
+#### Full-Stack developer
 ![I am a Full-Stack developer](https://github.com/Rayan-Sarieddine/Rayan-Sarieddine/blob/main/header-github.png)
 
 Since the first “Hello world” output came up on my screen, I have been a tech enthusiast, passionate about creating software solutions and dedicated to do it all through clean code. I have a bachelor's degree in computer engineering and I specialize in finding the best ways to make a software look good through a unique UI, and for it to be dependable through even better functionalities. I thrive in dynamic environments and enjoy tackling new challenges and staying up to date on the latest innovations in technology.
