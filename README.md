@@ -50,7 +50,7 @@ Since the first “Hello world” output came up on my screen, I have been a tec
 
 ## Theory:
 
--🧱OOP
+-🧱OOP  
 -🧩Programming Paradigms  
 -📚Data Structures and Algorithms  
 -⏱️Complexity Analysis  
