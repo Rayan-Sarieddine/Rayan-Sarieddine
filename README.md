@@ -1,6 +1,6 @@
 # Rayan Sarieddine
 
-## Software Engineer
+## Computer Engineer
 
 ![I am a Full-Stack developer](https://github.com/Rayan-Sarieddine/Rayan-Sarieddine/blob/main/header-github.png)
 
