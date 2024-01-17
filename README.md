@@ -2,7 +2,7 @@
 
 ![Rayan Sarieddine](https://github.com/Rayan-Sarieddine/Rayan-Sarieddine/blob/main/header-github.png)
 
-I am a Software Engineer with a Flair for Innovation!💡
+A Software Engineer with a Flair for Innovation!💡
 
 ## Programming, mark-up & styling Languages:
 
